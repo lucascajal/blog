@@ -4,3 +4,4 @@
 
 layout: home
 ---
+# Personal blog about learning Kubernetes & development in general

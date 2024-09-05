@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm Lucas Cajal, a data engineer working at Zurich Insurance. I have worked mainly as an ETL developer using Spark, both with Scala and Python, and also done some backend
+development. I have professional experience both in AWS and Azure (I've only played with GCP for personal never-finished
+projects), and have a semi-strong foundation of the concepts of containers, having used mainly Docker and more recently
+Docker compose. My current goal is to learn and master Kubernetes.
